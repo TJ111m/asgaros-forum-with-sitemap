@@ -1,9 +1,15 @@
 # UPDATE
+
 新增了xml的支持，因为原仓库似乎不更新了，就不提PR，用这种快速方案了
+
 **使用方法1**
+
 把asgaros-forum-sitemap.php放到wordpress的插件Code Snippets（或者类似中）
+
 保存，在设置-固定连接里面保存刷新一下
+
 你的网站地图就在：https://ceramicsforum.org/forum-sitemap.xml 里面啦！
+
 Have Fun！！！
 
 
